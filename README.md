@@ -1,6 +1,5 @@
 # Image-to-Text
 # use light images.
-# Works on Tessaract package.
 # Following are test images
 # Input
 ![test-image3](https://user-images.githubusercontent.com/70038465/165600513-04afc67c-ce6b-4f07-b0b5-9117f61fbf42.jpeg)
